@@ -54,11 +54,6 @@ class _SearchScreenState extends State<SearchScreen> {
                   vertical: 4
                 ),
                  child: Row(
-                  crossAxisAlignment: start,
-                  children: [
-                    Image(image: image),
-                    Column()
-                  ],
                  ),
               );
             },
