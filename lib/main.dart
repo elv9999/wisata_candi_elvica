@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
       ),
       //home: DetailScreen(candi: candiList[5]),
       //home: ProfileScreen(),
-      home: SearchScreen(),
+      home: HomeScreen(),
     );
   }
 }
